@@ -1,0 +1,30 @@
+body{background-color:#BAE2CA;}
+h1{
+  font-family:Arial;
+    font-size:60px;
+  color:#691F40;
+  text-align:center;
+}
+p{
+  font-family:Arial;
+  font-size:30px;
+  color:#691F40;
+  text-align:center;
+}
+h2{
+  font-family:Italic;
+  font-size:30px;
+  color:black;
+  text-align:center;
+}
+h3{
+  font-family:Arial;
+  font-size:30px;
+  color:#208982;
+  text-align:center;
+}
+h4{
+  font-family:Arial;
+  font-size:30px;
+  text-align:center;
+}
